@@ -69,13 +69,3 @@ This VR test environment was created as part of a final project for a VR class. 
 - Implement multiplayer support for collaborative or competitive play.  
 - Enhance teleportation effects for a more polished experience.  
 
----
-
-## Acknowledgments  
-- This project was inspired by the concepts and tools explored during the VR class.  
-- Special thanks to the Unity XR Interaction Toolkit documentation and community forums for guidance.  
-
----
-
-## Contact  
-If you have any questions or suggestions, feel free to reach out!  
