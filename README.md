@@ -3,6 +3,10 @@
 ### Project Overview  
 This VR test environment was created as part of a final project for a VR class. The goal was to design an interactive and engaging virtual environment that demonstrates the core features and capabilities of a VR system, including synced hand controls, physics interactions, and locomotion mechanics.  
 
+### Demo  
+You can view a demo of the project here:  
+[VR Test Environment Demo](https://drive.google.com/file/d/11d3mH2647ggPGpG9xL18lK43lcJLLF_j/view?usp=sharing)  
+
 ---
 
 ## Features  
